@@ -1,0 +1,11 @@
+# Mengabaikan folder cache Python
+__pycache__/
+*.pyc
+
+# Mengabaikan SELURUH folder data keuangan lokal beserta isinya
+data/
+
+# Mengabaikan virtual environment jika nanti Anda membuatnya
+venv/
+.venv/
+env/
